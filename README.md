@@ -6,6 +6,7 @@
 - [tier2](./tier2/)
 - [기타 전공](./other_majors/)
 - [업데이트 로그](./update_log.md)
+- [지원이유서 및 별도 준비서류 비교](./statement_of_purpose_requirements.md)
 - [GitHub 업로드 가이드](./GITHUB_UPLOAD_GUIDE.md)
 - [나고야공업대 모집 시기 점검 메모](./nagoya_nit_fall_intake_check.md)
 
