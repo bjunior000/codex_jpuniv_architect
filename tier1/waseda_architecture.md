@@ -4,8 +4,8 @@
 
 ## 1. 최신성 판단
 
-- 2026-03-24 기준, 와세다는 `2027년도 외국학생을 위한 학부 입학시험 개요(2027年度 外国学生のための学部入学試験 試験概要)`를 이미 공개했다.
-- 따라서 이 문서는 `2027년 4월 입학 기준 최신 공개 정보`를 우선 사용했다.
+- 2026-05-29 기준, 와세다는 `2027년도 외국학생을 위한 학부 입학시험 요항(PDF)`을 이미 공식 공개했다.
+- 따라서 이 문서는 기존의 개요 페이지보다 더 구체적인 `2027년 4월 입학 기준 공식 요항`을 우선 사용했다.
 
 ## 2. 모집 인원
 
@@ -35,6 +35,8 @@
 
 - 와세다 이공학술원 입시요항 페이지
   - https://www.waseda.jp/fsci/admissions_us/application/
+- 2027년도 외국학생을 위한 학부 입학시험 요항 PDF
+  - https://www.waseda.jp/inst/admission/assets/uploads/2026/02/01_2027_gaikokugakusei_nyushiyoukou.pdf
 - 건축학과 소개 페이지
   - https://www.waseda.jp/fsci/en/about/departments/creative/
 - 일반선발 특설 사이트

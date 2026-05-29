@@ -4,6 +4,8 @@
 
 - `2026년도 외국인 유학생 입학시험 모집요강(2026年度 外国人留学生 入学試験募集要項)`
 - 공식 PDF: https://www.tus.ac.jp/today/archive/2025/2026_09foreign_student.pdf
+- `2027년도 도쿄이과대 외국인 유학생시험 변경점 공지`
+- 공식 PDF: https://www.tus.ac.jp/admissions/file/2026/20260403_0203.pdf
 
 주의:
 
@@ -42,6 +44,11 @@
 - 제출 가능한 시험은 `TOEFL` 또는 `TOEIC`
 - `2024-01 이후` 응시 성적 사용
 - PDF 확인 범위에서는 `건축학과 최소 점수`는 보이지 않는다.
+- 다만 `2027 변경 공지` 기준으로는 영어 인정 범위가 바뀐다.
+  - `TOEFL iBT 시험장 응시형`만 인정
+  - `TOEFL Home Edition`, `TOEFL ITP`는 불인정
+  - `TOEIC L&R 공개테스트`만 인정
+  - `TOEIC IP`는 불인정
 
 ## 6. 선발 방식
 
