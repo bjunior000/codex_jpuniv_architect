@@ -4,9 +4,11 @@
 
 - [tier1](./tier1/)
 - [tier2](./tier2/)
+- [tier3](./tier3/)
 - [기타 전공](./other_majors/)
 - [업데이트 로그](./update_log.md)
 - [지원이유서 및 별도 준비서류 비교](./statement_of_purpose_requirements.md)
+- [면접 없는 건축계열 외국인 유학생 입시 후보](./no_interview_architecture_candidates.md)
 - [건축계열 입학 난이도 추정 순위](./admissions_difficulty_ranking.md)
 - [GitHub 업로드 가이드](./GITHUB_UPLOAD_GUIDE.md)
 - [나고야공업대 모집 시기 점검 메모](./nagoya_nit_fall_intake_check.md)
