@@ -5,6 +5,7 @@
 - [tier1](./tier1/)
 - [tier2](./tier2/)
 - [tier3](./tier3/)
+- [extra](./extra/)
 - [기타 전공](./other_majors/)
 - [업데이트 로그](./update_log.md)
 - [지원이유서 및 별도 준비서류 비교](./statement_of_purpose_requirements.md)
