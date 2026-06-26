@@ -1,6 +1,6 @@
 # 면접 없는 건축계열 외국인 유학생 입시 후보
 
-기준일: `2026-06-06`
+기준일: `2026-06-26`
 
 ## 1. 선별 기준
 
@@ -31,13 +31,13 @@
 면접 없음 근거:
 
 - 간사이대 외국인 학부 유학생 입시 페이지는 11월 모집에서 `경제학부·정책창조학부·사회안전학부·システム理工学部·環境都市工学部·化学生命工学部は書類選考のみ`라고 안내한다.
-- 2026년도 요항도 환경도시공학부에 대해 `출원서류 + EJU 성적`을 함께 심사해 선발한다고 설명한다.
+- 2027년도 요항도 환경도시공학부에 대해 `출원서류 + EJU 성적`을 함께 심사해 선발한다고 설명한다.
 - 같은 요항의 제출서류 안내에서 `면접을 실시하지 않는 학부` 목록에 `환경도시공학부`가 포함된다.
 - 건축학과는 환경도시공학부 소속이므로, 현재 확인 가능한 최신 공식 자료 기준으로는 면접이 없다.
 
 EJU:
 
-- 사용 가능 회차: `2025년도 제1회(6월)` 또는 `2025년도 제2회(11월)`
+- 사용 가능 회차: `2026년도 제1회(6월)` 또는 `2026년도 제2회(11월)`
 - 필수 과목:
   - 일본어(기술 포함)
   - 수학 `코스2`
@@ -74,8 +74,8 @@ EJU:
 
 - 간사이대 외국인 학부 유학생 입시 페이지
   - https://www.nyusi.kansai-u.ac.jp/admission/foreigner/
-- 간사이대 2026년도 외국인 학부 유학생 입시요항 PDF
-  - https://files.microcms-assets.io/assets/76cac1d7ce9f4ad08d453f8f074f8419/7b271cb8b86f4f47bcc7da22a505b8ee/2026_foreigner_yoko_sankou.pdf
+- 간사이대 2027년도 외국인 학부 유학생 입시요항 PDF
+  - https://files.microcms-assets.io/assets/76cac1d7ce9f4ad08d453f8f074f8419/dbe5556329784b19bb9c21128d18e460/2027_foreigner_yoko.pdf
 - 간사이대 환경도시공학부 건축학과
   - https://www.kansai-u.ac.jp/Fc_env/department/arch/index.html
 - 도요대 외국인 유학생 입학 가이드 2027
@@ -84,7 +84,7 @@ EJU:
   - https://www.f-eng.chiba-u.jp/admission/files/r8/r8_prv_guide.pdf
 - 오사카공업대 2027년도 외국인留学生入試 변경 예고
   - https://www.oit.ac.jp/admission/important-news/pdf/news_251219.pdf
-- 도쿄이과대 2025년도 외국인 유학생 모집요항
-  - https://www.tus.ac.jp/admissions/wp-content/uploads/2024/07/%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%95%99%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85_%E5%AD%A6%E9%83%A8.pdf
-- 메이지대 2027년도 외국인 유학생 입학시험 시험과목·일정표
-  - https://www.meiji.ac.jp/cip/prospective/admission_exams/6t5h7p000001f23y-att/qfki0t00000enlol.pdf
+- 도쿄이과대 2027년도 외국인 유학생 모집요항
+  - https://www.tus.ac.jp/admissions/uploads/2026/2027_foreign_student.pdf
+- 메이지대 2027년도 외국인 유학생 입학시험 요항
+  - https://www.meiji.ac.jp/cip/prospective/admission_exams/6t5h7p00000ivf38-att/yoko.pdf

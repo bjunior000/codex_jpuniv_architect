@@ -5,6 +5,7 @@
 - [tier1](./tier1/)
 - [tier2](./tier2/)
 - [tier3](./tier3/)
+- [광공학계열](./optical_engineering/)
 - [extra](./extra/)
 - [기타 전공](./other_majors/)
 - [업데이트 로그](./update_log.md)
